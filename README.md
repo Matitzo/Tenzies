@@ -1,4 +1,4 @@
-Tenzies
+# Tenzies
 
 This is the main layout of an Tenzies game. It is built using React.js. I built it as a part of Scrimba's Frontend Developer Career Path.
 
